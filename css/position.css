@@ -1,0 +1,27 @@
+*{	  width: 200px;
+      height: 200px;
+      position: absolute;}
+
+.uno{background-color: aliceblue;}
+
+.dos{background-color: pink;
+	 left: 1000px;
+	}
+
+.tres{background-color: lightgray;
+top: 600px;}
+
+.cuatro{background-color: darkseagreen;
+top:600px;
+left: 1000px;}
+	 
+	
+
+body{margin:0;
+padding: 0;}
+/*bottom es para el espacio que hay entre la parte inferior del elemento 
+y la parte inferior de la página o la parte superior del elemento 
+siguiente y top es el espacio que hay entre el 
+borde superior del elemento y el inferior 
+del siguiente o el limite superior de la pagina, si este es el 
+primero de arriba para abajo*/ 
